@@ -1,5 +1,5 @@
 # CARRITO-COMPRAS
-REACK-VITE
+REAC-VITE
 Proyecto creado con Vite
 Archivo principal: CarritoApp.jsx
 2 páginas: CarritoPage.jsx y ComprasPage.jsx
